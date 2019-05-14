@@ -1,7 +1,7 @@
 
-# Atenea Dash
+# Atenea Dashboard
 
-### Dashboard para freelance
+Dashboard para freelance
 
 
 ## Antecedentes
@@ -15,7 +15,7 @@ Para el diseño es importante tomar en cuenta:
 * Entendimiento del objetivo de negocio
 * Plan de medición
 
-En resumen, cada elemento sirve en la toma de decisiones. Lograr una buena herramienta significa apostar por la simplificación de los datos, elegir los gráficos adecuados, la lógica humana por encima del número y la velocidad. Por lo que, construir un dashboard significa contar una historia a partir de los datos. 
+Lograr una buena herramienta significa apostar por la simplificación de los datos, elegir los gráficos adecuados, la lógica humana por encima del número y la velocidad. Por lo que, construir un dashboard significa contar una historia a partir de los datos. 
 
 
 ## Descripción del proyecto
@@ -24,8 +24,8 @@ Diseñar un dashboard de administración de negocios para un freelance.
 
 ## Reto
 
-1. UI 
-2. Elección de métricas y KPI´S a presentar
+1. :art: UI
+2. :bar_chart: Elección de métricas y KPI´S a presentar
 
 ## Objetivo
 
@@ -42,7 +42,7 @@ De acuerdo con datos del Economista para el año 2018,  México ocupaba el terce
 
 Esta situación viene determinada porque las empresas están contratando cada vez menos y por ende, se desatienden de otorgar prestaciones de ley a sus empleados. De igual forma, las empresas ven reducidos sus gastos en rentas y servicios en general al no contar con una plantilla numerosa en físico. Lo anterior repercute en las salidas laborales de los profesionistas, pues muchos recurren al desarrollo independiente en función de no ser contratados.
 
-A continuación se presentan algunas de las ventajas y desventajas de esta modalidad: 
+A continuación se presentan las siguientes generalidades de esta modalidad: 
 
 | Ventajas| Desventaja|
 | ----- | ---- |
@@ -54,16 +54,30 @@ A continuación se presentan algunas de las ventajas y desventajas de esta modal
 
 
 
-Una vez determinado el contexto de un freelancer, hablaré de la usuaria del dashboard por desarrollar. 
+Una vez determinado el contexto de un freelancer, hablaré de la usuaria del dashboard. A través de una **entrevista a profundidad**, se recaban datos relevantes sobre ella, su experiencia como freelancer y las necesidades latentes. 
 
-Perfil de la usuaria
+* :page_facing_up: [Guion de entrevista](https://docs.google.com/document/d/111pVHyi8uZwogKw4Hw4xQT9fbmXjTijv1a8QZWgbwjI/edit?usp=sharing)
+* :speaker: [Audio entrevista](https://drive.google.com/open?id=1gxdjy5Wj3ZmvZNc8pFmYEJItZ7YZNuFB)
+
+1. Determino las características generales mediante un perfil:
+
+
+**Perfil de la usuaria**
 
 <a href="https://ibb.co/NmpyskR"><img src="https://i.ibb.co/2sPkyLJ/2.png" alt="2" border="0"></a>
+
+
+2. Para entender la experiencia relatada, decido elaborar un [mapa de empatía](https://designthinking.gal/el-mapa-de-empatia/).
+
+<a href="https://ibb.co/2Kn80mD"><img src="https://i.ibb.co/9Y8wmzF/Dashboard-Sapere0.jpg" alt="Dashboard-Sapere0" border="0"></a>
 
 
 ## Insigth
 
 
+
 ## Plan de medición
+
+
 
 <a href="https://ibb.co/3dG83bD"><img src="https://i.ibb.co/tKkNG67/3.png" alt="3" border="0"></a>
