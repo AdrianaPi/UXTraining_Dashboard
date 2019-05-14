@@ -34,7 +34,6 @@ Ofrecer una herramienta que permita controlar, medir y rastrear la información 
 ## ¿A quién le estamos hablando?
 
 > El anglicismo freelance se refiere a la actividad que realiza la persona que trabaja de forma independiente o se dedica a realizar trabajos de manera autónoma que le permitan desenvolverse en su profesión o en aquellas áreas que pueden ser más lucrativas y son orientadas a terceros que requieren de servicios específicos.
-
 Fuente: Wikipedia
 
 Una freelancer puede estar en cualquier área, como: programación, traducción, ventas, fotografía, organización de eventos, clases particulares, entre otras. Baste decir, que se requiere de determinación y motivación para lograr mantenerse en un negocio como este. Una persona que se desempeña como freelance se enfrenta a numerosos retos en la intención de contar con libertad de trabajo. 
@@ -59,7 +58,7 @@ Una vez determinado el contexto de un freelancer, hablaré de la usuaria del das
 
 Perfil de la usuaria
 
-<a href="https://ibb.co/cNpBGmm"><img src="https://i.ibb.co/vJrF7tt/Elena-Hdez.png" alt="Elena-Hdez" border="0"></a>
+<a href="https://ibb.co/NmpyskR"><img src="https://i.ibb.co/2sPkyLJ/2.png" alt="2" border="0"></a>
 
 
 ## Insigth
@@ -67,43 +66,4 @@ Perfil de la usuaria
 
 ## Plan de medición
 
-En función de la información obtenida en la entrev
-
-
-
-Operacionalización de actividades
-Buscar proyectos 
-
-
-Ponerse en contacto con Lowpost 
-
-
-Revisión de especificaciones
-
-
-Investigación 
-
-
-Redacción
-
-
-Envío para revisión
-
-
-Correcciones a escritos
-
-
-Esperar pago
-
-
-Buscar proyectos externos
-
-
-
-Insumos
-Celular
-Computadora
-Internet
-Plan de datos
-Lapiceros 
-Papel
+<a href="https://ibb.co/3dG83bD"><img src="https://i.ibb.co/tKkNG67/3.png" alt="3" border="0"></a>
