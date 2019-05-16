@@ -88,3 +88,5 @@ Muestro los elementos relevantes para el plan de medición:
 Con lo anterior, y pensando en sus principales necesidades, el objetivo crece y le planteo tres KPI´s
 
 <a href="https://ibb.co/5hkjDrs"><img src="https://i.ibb.co/0yK9NCY/kpis.png" alt="kpis" border="0"></a>
+
+A esta iteración, Elena considera muy importante un seguimiento de la productividad durante el año. Ella, al igual que a los profesionistas freelancer, saben que la carga de trabajo varía mes con mes y sería pertinente mantenerse alertas para prevenir y administrarse de mejor forma.
