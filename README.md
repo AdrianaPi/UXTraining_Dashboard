@@ -59,7 +59,7 @@ Una vez determinado el contexto de un freelancer, hablaré de la usuaria del das
 * :page_facing_up: [Guion de entrevista](https://docs.google.com/document/d/111pVHyi8uZwogKw4Hw4xQT9fbmXjTijv1a8QZWgbwjI/edit?usp=sharing)
 * :speaker: [Audio entrevista](https://drive.google.com/open?id=1gxdjy5Wj3ZmvZNc8pFmYEJItZ7YZNuFB)
 
-1. Determino las características generales mediante un perfil:
+1. Presento las características generales mediante un perfil:
 
 
 **Perfil de la usuaria**
@@ -72,12 +72,19 @@ Una vez determinado el contexto de un freelancer, hablaré de la usuaria del das
 <a href="https://ibb.co/2Kn80mD"><img src="https://i.ibb.co/9Y8wmzF/Dashboard-Sapere0.jpg" alt="Dashboard-Sapere0" border="0"></a>
 
 
-## Insigth
-
-
 
 ## Plan de medición
 
+Ahora con la comprensión de las principales actividades que realiza Elena es posible definir el plan de métricas y [KPI´S](https://www.isotools.org/soluciones/procesos/kpis-indicadores/) a utilizar. 
 
+> Los KPI (Key Performance Indicators) o Indicadores Clave de Desempeño miden el nivel del desempeño de un proceso determinado, enfocándose en el “cómo” e indicando que tan efectivos son los procesos, de forma que se pueda alcanzar el objetivo fijado. Fuente: ISOTools.
+
+Es importante mencionar que ella no llevaba ningún tipo de registro o control sobre su actividad, por lo que, pese a que ya no está activa como freelance, la idea de monitorear sus indicadores le pareció funcional y novedoso. Ha utilizado otro tipo de mediciones con aplicaciones, como las de salud; así que, trasladarlo al ámbito laboral la entusiasmo.
+
+Muestro los elementos relevantes para el plan de medición:
 
 <a href="https://ibb.co/3dG83bD"><img src="https://i.ibb.co/tKkNG67/3.png" alt="3" border="0"></a>
+
+Con lo anterior, y pensando en sus principales necesidades, el objetivo crece y le planteo tres KPI´s
+
+<a href="https://ibb.co/5hkjDrs"><img src="https://i.ibb.co/0yK9NCY/kpis.png" alt="kpis" border="0"></a>
