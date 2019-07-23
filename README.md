@@ -56,9 +56,6 @@ A continuación se presentan las siguientes generalidades de esta modalidad:
 
 Una vez determinado el contexto de un freelancer, hablaré de la usuaria del dashboard. A través de una **entrevista a profundidad**, se recaban datos relevantes sobre ella, su experiencia como freelancer y las necesidades latentes. 
 
-* :page_facing_up: [Guion de entrevista](https://docs.google.com/document/d/111pVHyi8uZwogKw4Hw4xQT9fbmXjTijv1a8QZWgbwjI/edit?usp=sharing)
-* :speaker: [Audio entrevista](https://drive.google.com/open?id=1gxdjy5Wj3ZmvZNc8pFmYEJItZ7YZNuFB)
-
 1. Presento las características generales mediante un perfil:
 
 
