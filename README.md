@@ -68,7 +68,28 @@ Una vez determinado el contexto de un freelancer, hablaré de la usuaria del das
 
 <a href="https://ibb.co/2Kn80mD"><img src="https://i.ibb.co/9Y8wmzF/Dashboard-Sapere0.jpg" alt="Dashboard-Sapere0" border="0"></a>
 
+En resumen:
 
+A. Pains
+* No lleva registro o control de su actividad productiva.
+* Desconoce cuánto gana por hora.
+* Pierde el equilibrio entre el trabajo y la vida personal.
+* No calcula adecuadamente el tiempo para desarrollar un producto en función del tiempo y los requerimientos solicitados.
+
+B.  Gains
+* Practicar la escritura.
+* Publicar textos.
+* Aprender sobre temas diversos.
+* Trabajar desde cualquier sitio.
+* Colaborar en proyectos internacionales.
+
+C. Requerimientos
+* Colores atractivos, se describe como una persona dinámica y divertida.
+* Uso de íconos.
+* Ganancia por hora.
+* Seguimiento de la productividad por año.
+* Seguimiento mes con mes de trabajos entregados.
+* Alerta o apartado para administrar de mejor forma el dinero.
 
 ## Plan de medición
 
@@ -76,7 +97,6 @@ Ahora con la comprensión de las principales actividades que realiza Elena es po
 
 > Los KPI (Key Performance Indicators) o Indicadores Clave de Desempeño miden el nivel del desempeño de un proceso determinado, enfocándose en el “cómo” e indicando que tan efectivos son los procesos, de forma que se pueda alcanzar el objetivo fijado. Fuente: ISOTools.
 
-Es importante mencionar que ella no llevaba ningún tipo de registro o control sobre su actividad, por lo que, pese a que ya no está activa como freelance, la idea de monitorear sus indicadores le pareció funcional y novedoso. Ha utilizado otro tipo de mediciones con aplicaciones, como las de salud; así que, trasladarlo al ámbito laboral la entusiasmo.
 
 Muestro los elementos relevantes para el plan de medición:
 
@@ -86,4 +106,4 @@ Con lo anterior, y pensando en sus principales necesidades, el objetivo crece y 
 
 <a href="https://ibb.co/5hkjDrs"><img src="https://i.ibb.co/0yK9NCY/kpis.png" alt="kpis" border="0"></a>
 
-A esta iteración, Elena considera muy importante un seguimiento de la productividad durante el año. Ella, al igual que a los profesionistas freelancer, saben que la carga de trabajo varía mes con mes y sería pertinente mantenerse alertas para prevenir y administrarse de mejor forma.
+
